@@ -25,7 +25,7 @@ This Python script provides a utility to temporarily prevent your Windows system
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/system-sleep-prevention.git
+   git clone https://github.com/Itssubhasish/system-sleep-prevention.git
    cd system-sleep-prevention
    ```
 
@@ -79,14 +79,6 @@ You can modify the following in the script:
 - `time`: For duration tracking
 - `threading`: For background task management
 - `keyboard`: For kill switch functionality
-
-## License
-
-[Choose an appropriate license and add it here]
-
-## Contributions
-
-Contributions, issues, and feature requests are welcome!
 
 ## Disclaimer
 
